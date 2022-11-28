@@ -10,7 +10,7 @@ I made a Professional README Generator which can be populated with information s
 https://github.com/blanfried/README-Generator
 
 ### Deployed URL
-No HTML so cannot deploy.
+No HTML to deploy.
 
 ### Webpage Screenshot
 ![Test README Screenshot (Top)](./Assets/images/README%20Screenshot%20(Top).png)
