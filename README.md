@@ -7,13 +7,13 @@ README Generator
 I made a Professional README Generator which can be populated with information specific to the user.
 
 ### Githup Repository URL
-https://github.com/blanfried/Weather-Forecaster
+https://github.com/blanfried/README-Generator
 
 ### Deployed URL
-https://blanfried.github.io/Weather-Forecaster/
+No HTML so cannot deploy.
 
 
 
 ### Webpage Screenshot
-![Weather Forecaster Screenshots](./Assets/imgs/siteScreenshot(top).png)
-![Weather Forecaster Screenshots](./Assets/imgs/siteScreenshot(bottom).png)
+![Test README Screenshot (Top)](./Assets/images/README%20Screenshot%20(Top).png)
+![Test README Screenshot (Bottom)](./Assets/images/README%20Screenshot%20(Bottom).png)
