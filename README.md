@@ -12,8 +12,6 @@ https://github.com/blanfried/README-Generator
 ### Deployed URL
 No HTML so cannot deploy.
 
-
-
 ### Webpage Screenshot
 ![Test README Screenshot (Top)](./Assets/images/README%20Screenshot%20(Top).png)
 ![Test README Screenshot (Bottom)](./Assets/images/README%20Screenshot%20(Bottom).png)
